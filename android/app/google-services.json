@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898545221027",
+    "project_id": "opheflow",
+    "storage_bucket": "opheflow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898545221027:android:38bd0dcfb457a443546e16",
+        "android_client_info": {
+          "package_name": "com.opheflow.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFaPvCdQvRTLlCGrvThbk84siI6g7qi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
